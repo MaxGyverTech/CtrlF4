@@ -3,7 +3,7 @@
 CtrlF4 мгновенно убивает процесс активного окна
 
 ## Использование
-1. Скачайте .exe в [релизах](/releases/)
+1. Скачайте .exe в [релизах](https://github.com/MaxGyverTech/CtrlF4/releases/)
 2. Просто запустите программу и убивайте любое окно нажав Ctrl+F4
 3. Чтобы добавить программу в автозапуск, закиньте ярлык программы в `C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 4. Теперь можете использовать Ctrl+F4 сразу после запуска системы
